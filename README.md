@@ -38,7 +38,7 @@ free, and I'll tell you if you don't actually need to pay me.
 
 57 of my repos are MIT — free for anything including commercial use, no permission needed, ever.
 But a few were published with **no license file**, which in copyright law means *all rights reserved*:
-`electron-shadcn-typescript` (88★), `let`, `ollama_models_explorer`, `opencc`, `notes`,
+`electron-shadcn-typescript` (89★), `let`, `ollama_models_explorer`, `opencc`, `notes`,
 `Shortcut-Virus-Remover`, `tabrider_example`, `ReduxCounter`, `duas`, `MathBlitz`.
 
 Personal use, learning and open-source forks of those: go ahead, just link back. The paid license is for
