@@ -16,4 +16,4 @@ Fixed-price software delivery from the author of 102 open-source projects. Dubai
 
 Individuals, students and open-source forks pay nothing — the MIT repos are free forever and I'd rather you just shipped.
 
-**Email [fayazbinsalam@uberip.com](mailto:fayazbinsalam@uberip.com)** with what you need. Scoping and quotes are free and I answer within one business day. Payment is by invoice (UAE bank transfer, USD or AED) or by card; small first jobs can run through [Fiverr escrow](https://www.fiverr.com/fayazbinsalam).
+**Email [fayazdevinbox@uberip.com](mailto:fayazdevinbox@uberip.com)** with what you need. Scoping and quotes are free and I answer within one business day. Payment is by invoice (UAE bank transfer, USD or AED) or by card; small first jobs can run through [Fiverr escrow](https://www.fiverr.com/fayazbinsalam).
