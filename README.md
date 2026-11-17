@@ -17,3 +17,7 @@ Fixed-price software delivery from the author of 102 open-source projects. Dubai
 Individuals, students and open-source forks pay nothing — the MIT repos are free forever and I'd rather you just shipped.
 
 **Email [fayazdevinbox@uberip.com](mailto:fayazdevinbox@uberip.com)** with what you need. Scoping and quotes are free and I answer within one business day. Payment is by invoice (UAE bank transfer, USD or AED) or by card; small first jobs can run through [Fiverr escrow](https://www.fiverr.com/fayazbinsalam).
+
+## You might also like
+
+<a href="https://openstore.pfay.workers.dev/cards/p32929?n=4&amp;repo=hire"><picture><source media="(prefers-color-scheme: dark)" srcset="https://openstore.pfay.workers.dev/cards/p32929.svg?n=4&amp;repo=hire&amp;theme=dark"><img src="https://openstore.pfay.workers.dev/cards/p32929.svg?n=4&amp;repo=hire&amp;theme=light" width="100%" alt="More apps by p32929 on OpenStore"></picture></a>
